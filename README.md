@@ -1,4 +1,6 @@
 # trainsChallenge
+
+To Change Input data, edit examples.js, to run and see the test below, node examples.js
 TRAINS and TOWNS
 
  
